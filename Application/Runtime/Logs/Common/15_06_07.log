@@ -1,0 +1,846 @@
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/iCheck/skins/square/square.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/iCheck/skins/minimal/minimal.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/iCheck/skins/square/blue.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/css/clndr.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Css
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/iCheck/skins/square/red.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Css
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/jquery-ui-1.9.2.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/css/style-responsive.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Css
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/jquery.nicescroll.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/easypiechart/jquery.easypiechart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/easypiechart/easypiechart-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004519s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/sparkline/jquery.sparkline.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/icheck-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/iCheck/jquery.icheck.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.tooltip.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.resize.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.pie.resize.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/sparkline/sparkline-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.selection.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.stack.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/images/logo_icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.time.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/scripts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001455s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/js/main-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/images/photos/user-avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/images/photos/user4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/images/photos/user1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/images/photos/user3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/images/photos/user2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/images/gallery/wdgt-img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/images/photos/user5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/images/gallery/image3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002248s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:33:45+08:00 ] ::1 /jf/jfedu/images/photos/userprofile.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/iCheck/skins/minimal/minimal.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/iCheck/skins/square/square.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/iCheck/skins/square/blue.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.resize.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/iCheck/skins/square/red.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.pie.resize.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.stack.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/scripts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.selection.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000164s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/jquery-ui-1.9.2.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/jquery-migrate-1.2.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/jquery.nicescroll.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/easypiechart/jquery.easypiechart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/sparkline/jquery.sparkline.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/easypiechart/easypiechart-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/iCheck/jquery.icheck.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/icheck-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.time.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.tooltip.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/sparkline/sparkline-init.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/flot-chart/jquery.flot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/js/main-chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Js
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/images/logo_icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/images/photos/user-avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/images/photos/user1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/images/photos/user2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/images/photos/user3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/images/gallery/wdgt-img.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/images/photos/user4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/images/photos/user5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/images/gallery/image3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:35:25+08:00 ] ::1 /jf/jfedu/images/photos/userprofile.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Images
+
+[ 2015-06-07T19:36:22+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:39:24+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:40:22+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:43:13+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:43:14+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:46:50+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:48:47+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:48:49+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:57:29+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:57:30+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:58:55+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T19:58:56+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:02:34+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:02:37+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:03:04+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:04:43+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:05:30+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001434s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:05:33+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000984s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:08:09+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:08:10+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:08:31+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:10:06+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:10:18+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:10:20+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:10:37+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:10:38+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:11:17+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:11:18+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:12:22+08:00 ] ::1 /jf/jfedu/horizontal_menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Horizontal_menu
+
+[ 2015-06-07T20:13:09+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:13:10+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:13:22+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:13:50+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:13:51+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:15:11+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:15:13+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:16:09+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:16:10+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:16:33+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:17:28+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:17:49+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:17:50+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:18:14+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:20:12+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:20:13+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:21:30+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:21:31+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:21:32+08:00 ] ::1 /jf/jfedu/fontawesome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+ERR: 无法加载模块:Fontawesome
+
+[ 2015-06-07T20:22:01+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:22:02+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:22:03+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:22:50+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:22:51+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:22:52+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:22:54+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:23:49+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:23:50+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:24:08+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:24:45+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:24:46+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:27:16+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:27:25+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:27:29+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:28:30+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:Public
+
+[ 2015-06-07T20:28:31+08:00 ] ::1 /jf/jfedu/Public/Admin/fonts/fonts/fontawesome-webfont-v=4.0.3.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+ERR: 无法加载模块:Public
+
